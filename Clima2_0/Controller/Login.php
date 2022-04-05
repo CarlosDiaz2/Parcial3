@@ -11,3 +11,4 @@
 
  	echo json_encode(["estado"=>$obj]);
  }
+#Se necesita crea una base de datos con los datos que se mencionan.
